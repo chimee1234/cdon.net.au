@@ -1,1 +1,0 @@
-document.getElementsByTagName("h6")[0].style.fontSize = "7vw";
